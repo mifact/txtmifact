@@ -1,0 +1,73 @@
+A;SERIE;;FC13
+A;Correlativo;;00000339
+A;RznSocEmis;;EMPRESA DEMO SAC
+A;RUTEmis;;20100100100
+A;DirEmis;;AV. TINGO MARIA 768   CERCADO DE LIMA  LIMA
+A;ComuEmis;;150101
+A;NomComer;;DEMOSTRACION SHOP
+A;TipoDTE;;07
+A;TipoRutReceptor;;6
+A;RUTRecep;;20100166144
+A;RznSocRecep;;AGROINDUSTRIA SANTA MARIA S.A.C.
+A;DirRecep;;AV. EL POLO NRO. 397 DPTO. PI 6 URB. LAS FLORES - LIMA LIMA SANTIAGO DE SURCO
+A;TipoNotaCredito;;10
+A;Sustento;;OTROS CONCEPTOS
+A;TipoMoneda;;USD
+A;MntNeto;;42.37
+A;MntExo;;0.00
+A;MntExe;;0.00
+A;MntTotalIgv;;7.63
+A;MntTotal;;50.00
+A;FchEmis;;2020-06-11
+A;ImprDest;;
+A;FormatoPDF;;001
+A;mailEnvio;;
+A;PuntoVenta;;GARCIA CARLOS
+A;TXT_VERS_UBL;;2.1
+A;TXT_VERS_ESTRUCT_UBL;;2.0
+A;COD_ANEXO_EMIS;;0018
+A;COD_TIP_OPE_SUNAT;;0101
+A;NRO_CUENTA_DETRAC;;000542474
+A3;COD_TIP_DETRACCION;;037
+A3;MntDetraccion;;6.00
+A3;PorcentajeDetraccion;;12.00
+A2;CodigoImpuesto;1;1000
+A2;MontoImpuesto;1;0.00
+A2;TasaImpuesto;1;18
+B;NroLinDet;1;1
+B;QtyItem;1;1
+B;UnmdItem;1;NIU
+B;VlrCodigo;1;692
+B;NmbItem;1;AJUSTE TECNICO
+B;PrcItem;1;50.00
+B;PrcItemSinIgv;1;42.3728
+B;MontoItem;1;42.37
+B;MNT_PV_ITEM;1;50.00
+B;IndExe;1;10
+B;CodigoTipoIgv;1;1000
+B;TasaIgv;1;18.00
+B;ImpuestoIgv;1;7.63
+B;COD_ITEM_SUNAT;1;
+B;COD_TIP_PRC_VTA;1;01
+D;NroLinRef;1;1
+D;TpoDocRef;1;01
+D;SerieRef;1;F017
+D;FolioRef;1;12509
+E;TipoAdicSunat;1;01
+E;NmrLineasAdicSunat;1;1
+E;DescripcionAdicSunat;1;CONTADO CASH
+E;TipoAdicSunat;2;05
+E;NmrLineasAdicSunat;2;2
+E;DescripcionAdicSunat;2;AJUSTE TECNICO 01 LLANTA 6.50-10 12PR AIR 550 ED PLUS SOLIDEAL APLICADO A LA F/170013107 IT -021/2020
+E;TipoAdicSunat;3;06
+E;NmrLineasAdicSunat;3;3
+E;DescripcionAdicSunat;3;
+E;TipoAdicSunat;4;07
+E;NmrLineasAdicSunat;4;4
+E;DescripcionAdicSunat;4;
+E;TipoAdicSunat;5;08
+E;NmrLineasAdicSunat;5;5
+E;DescripcionAdicSunat;5;
+E;TipoAdicSunat;6;15
+E;NmrLineasAdicSunat;6;6
+E;DescripcionAdicSunat;6;

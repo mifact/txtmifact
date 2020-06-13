@@ -1,0 +1,56 @@
+A;SERIE;;F017
+A;Correlativo;;00013146
+A;RznSocEmis;;EMPRESA DEMO SAC
+A;RUTEmis;;20100100100
+A;DirEmis;;AV. TINGO MARIA 768   CERCADO DE LIMA  LIMA
+A;ComuEmis;;150101
+A;NomComer;;DEMOSTRACIONES SHOP    
+A;TipoDTE;;01
+A;TipoRutReceptor;;6
+A;RUTRecep;;20600460740
+A;RznSocRecep;;AGRIFRUT  CARAL  PERU  E.I.R.L.
+A;DirRecep;;JR. ANTIVAL NRO. 118 INT. A - LIMA BARRANCA SUPE
+A;TipoMoneda;;USD
+A;MntNeto;;169.49
+A;MntExo;;0.00
+A;MntExe;;0.00
+A;MntTotalIgv;;30.51
+A;MntTotal;;200.00
+A;FchEmis;;2020-06-12
+A;FchVenc;;2020-06-12
+A;ImprDest;;
+A;FormatoPDF;;001
+A;mailEnvio;;
+A;PuntoVenta;;ALCAZAR MONTALVAN GEANINI
+A;TXT_VERS_UBL;;2.1
+A;TXT_VERS_ESTRUCT_UBL;;2.0
+A;COD_ANEXO_EMIS;;0018
+A;COD_TIP_OPE_SUNAT;;0101
+A2;CodigoImpuesto;1;1000
+A2;MontoImpuesto;1;0.00
+A2;TasaImpuesto;1;18
+B;NroLinDet;1;1
+B;QtyItem;1;2
+B;UnmdItem;1;NIU
+B;VlrCodigo;1;L4035
+B;NmbItem;1;LLANTA ARO 14
+B;PrcItem;1;100.00
+B;PrcItemSinIgv;1;84.7460
+B;MontoItem;1;169.49
+B;MNT_PV_ITEM;1;200.00
+B;IndExe;1;10
+B;CodigoTipoIgv;1;1000
+B;TasaIgv;1;18.00
+B;ImpuestoIgv;1;30.51
+B;COD_ITEM_SUNAT;1;
+B;COD_TIP_PRC_VTA;1;01
+D;NroLinRef;1;1
+D;TpoDocRef;1;09
+D;SerieRef;1;0017
+D;FolioRef;1;00078210
+D;NroLinRef;2;2
+D;Cod_Otr_Doc_Ref;2;99
+D;Num_Otr_Doc_Ref;2;
+E;TipoAdicSunat;1;01
+E;NmrLineasAdicSunat;1;1
+E;DescripcionAdicSunat;1;CONTADO

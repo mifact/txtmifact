@@ -1,0 +1,18 @@
+La integración por Archivo tipo TXT para la facturacion electronica, debera de guiarse del excel estructura txt_fv_bv_nd_nd.xlsx
+Tambien cuenta con ejemplos en la carpeta EjemplosTXT, para emision de factura, anulacion, y emision de nota de credito.
+El formato de ejemplo para emision de factura sirve para boleta y factura solo debera de cambiar el tipo de comprobante y los datos del cliente segun el tipo de documento.
+El formato de ejemplo para emision de nota de credito sirve para nota de debito solo debera de cambiar el tipo de comprobante y los datos del cliente segun el tipo de documento.
+El formato de ejmplo para anulacion sirve para todos los tipo de docuemntos factura, boleta, nota de credito o debito solo debera de cambiar el tipo de comprobante
+
+EL proceso es el siguiente:
+1: usted generar el TXT (emision o anulacion) en una carpeta X o sube a un FTP
+2: nuestro sistema identifica la existencia de un nuevo archivo txt bajo el formato de mifact.
+3: el sistema mifact genera y firma el XML, luego genera el PDF dejando en una carpeta X o FTP.
+4: si usted envio a imprimir y el sistema esta instalado en su red interna, nuestro sistema imprime el documento solo para ticket (ticketera)
+5: el sistema mifact sincroniza el XMl firmado a nuestros servidores en la Nube para posteriormente enviarlo a SUNAT u OSE
+6: Los documentos que existen en nuestro servidor en la nube pueden ser visualizados o descargados por un portal web.
+
+Si usted ya genero el TXT bajo el formato MIFACT, enviarlo al correo de soporte@mifact.net, asunto integración TXT nueva empresa.
+Realizaremos los descartes y validaciones de la estrucutura el cual se le respondera indicando cuales son las fallas que presenta si lo tuviera.
+Despues de validar todos los tipo de comprobantes y escenarios, se coordina para instalar nuestro sistema en su PC o habilitar un FTP.
+
